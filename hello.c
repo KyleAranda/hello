@@ -6,5 +6,7 @@ int main (void) {
     printf("Electrical Engineering");
     printf("wil Koumaka");
     printf("computer engineering");
+    printf("Shen Chang");
+    printf("Mathematics")
     return 0;
 }
